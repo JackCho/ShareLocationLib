@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShareLocation</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="location">位置分享</string>
+    <string name="share">分享</string>
+    <string name="no_access_current_location">暂未获取到您当前的位置，请稍后...</string>
+
+</resources>
